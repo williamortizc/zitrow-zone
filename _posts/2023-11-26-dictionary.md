@@ -25,7 +25,7 @@ Puedes borrar palabras específicas o resetear completamente tu diccionario pers
 
 Para eliminar palabras específicas, puedes editar el archivo `LocalDictionary`:
 
-```shell
+```console
 open -a TextEdit ~/Library/Spelling/LocalDictionary
 ```
 
